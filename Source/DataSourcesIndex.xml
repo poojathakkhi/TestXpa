@@ -1,0 +1,29 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14100.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="32"/>
+
+  <LastIsnFolder val="2"/>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="TEST" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" name="CLUB_ACTION" offset="229" length="6544"/> 
+<DataObject PhysicalName="TEST2" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="LMV_CLUB_ACTION_INT$VM" offset="6774" length="2295"/> 
+<DataObject PhysicalName="CHOICES_LIST" Public="m" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="28" name="CHOICES_LIST" offset="9070" length="2286"/> 
+<DataObject PhysicalName="KEISYOU2_MAS" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="29" name="39/165" offset="11357" length="3699"/> 
+<DataObject PhysicalName="COMBNRUI" Resident="N" UniqueISNConvState="12" data_source="MSSQL" id="30" name="COMBNRUI" offset="15057" length="4865"/> 
+<DataObject PhysicalName="TAMMODEL" Resident="N" UniqueISNConvState="12" data_source="MSSQL" id="31" name="TAMMODEL" offset="19923" length="3355"/> 
+<DataObject PhysicalName="TAZKOZAI" Resident="N" UniqueISNConvState="12" data_source="MSSQL" id="32" name="TAZKOZAI" offset="23279" length="7615"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31125053-3448719"/>  </Application>

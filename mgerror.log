@@ -1,0 +1,68 @@
+﻿ <212564000835320320> 12/08/2024 16:30:44.110     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.112     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.114     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.115     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.117     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.118     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.119     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.120     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.122     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.123     [Error  ] - Duplicate Index, Data Source: TEST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert".
+ <212564000835320320> 12/08/2024 16:30:44.124     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert_combo".
+ <212564000835320320> 12/08/2024 16:30:44.126     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert_combo".
+ <212564000835320320> 12/08/2024 16:30:44.127     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert_combo".
+ <212564000835320320> 12/08/2024 16:30:44.130     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert_combo".
+ <212564000835320320> 12/08/2024 16:30:44.131     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST  >> Application: "D:\Xpa410\Projects\Test\", Program: "Fill_tables.Insert_combo".
+ <212564000835320320> 12/08/2024 16:30:44.140     [Error  ] - Online task cannot be executed using a Background Runtime engine. Please set the Deployment Mode to Online.  >> Application: "D:\Xpa410\Projects\Test\", Program: "Test".
+ <212564000835320320> 12/08/2024 16:30:44.142     [Error  ] - Online task cannot be executed using a Background Runtime engine. Please set the Deployment Mode to Online.  >> Application: "D:\Xpa410\Projects\Test\", Program: "Test".
+ <-1> 12/08/2024 16:31:29.032     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 12/08/2024 16:31:29.032     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <314764890153009984> 12/08/2024 16:31:38.702     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.703     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.705     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.707     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.708     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.710     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.712     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.713     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.715     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.717     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <314764890153009984> 12/08/2024 16:31:38.718     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <314764890153009984> 12/08/2024 16:31:38.720     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <314764890153009984> 12/08/2024 16:31:38.722     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <314764890153009984> 12/08/2024 16:31:38.724     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <314764890153009984> 12/08/2024 16:31:38.727     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:26.066     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.069     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.070     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.072     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.074     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.076     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.078     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.079     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.084     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.086     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:26.087     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:26.089     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:26.090     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:26.092     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:26.093     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:34.556     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.559     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.562     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.564     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.567     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.570     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.572     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.574     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.577     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.579     [Error  ] - Duplicate Index, Data Source: TEST, Program: "Fill_tables.Insert".
+ <192045812147103840> 12/08/2024 16:33:34.581     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:34.583     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:34.586     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:34.588     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <192045812147103840> 12/08/2024 16:33:34.590     [Error  ] - Duplicate Index, Data Source: CHOICES_LIST, Program: "Fill_tables.Insert_combo".
+ <42416955696260976> 14/08/2024 13:40:17.717     [Error  ] - Unknown Database, Data Source: MSSQL, Program: "39/165 Create Data".
+ <42416955696260976> 14/08/2024 13:40:17.722     [Error  ] - Unknown Database, Data Source: KEISYOU2_MAS, Program: "39/165 Create Data".
+ <42416955696260976> 14/08/2024 13:40:17.724     [Error  ] - Unknown Database, Data Source: MSSQL, Program: "39/165 Create Data.Create".
+ <42416955696260976> 14/08/2024 13:40:17.726     [Error  ] - Unknown Database, Data Source: KEISYOU2_MAS, Program: "39/165 Create Data.Create".
